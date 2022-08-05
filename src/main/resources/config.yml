@@ -1,0 +1,62 @@
+############################################################
+# +------------------------------------------------------+ #
+# |                          Titel & Prefix              | #
+# +------------------------------------------------------+ #
+############################################################
+Prefix:
+  ServerName: "&7[&3Fargu-Gaming &7] "
+
+  ############################################################
+  # +------------------------------------------------------+ #
+  # |                      ScoreBoard                      | #
+  # +------------------------------------------------------+ #
+  ############################################################
+Board:
+  BoardName: '&6&b Fargu-Gaming'
+  TablistHeader_placeholder: '&8&m--------------------'
+  TablistHeader_line_0: '&7&l[ &6Fargu-Gaming &7&l]'
+  TablistHeader_line_1: '&f&l Fargu-Gaming Costum Server, mit 2 CityBuild Server unterschiedlichster Art!'
+  TablistHeader_line_2: '&6Du befindest dich in der Welt &a%world%'
+  TablistFooter_line_0: '&aWebseite: &9https://fargu-gaming.eu'
+  TablistFooter_line_1: '&cPartner: &fAlle was geht '
+  TablistFooter_line_2: '&dDiscord: &fhttps://discord.gg/dGK2bvW'
+
+  Sideboard_line13: 'Player / Name'
+  Sideboard_line10: 'Money'
+  Sideboard_line10_2: 'Drakem'
+  Sideboard_line7: 'Votes'
+  Sideboard_line4: 'Coming'
+
+
+############################################################
+# +------------------------------------------------------+ #
+# |                        Rangs                         | #
+# | //ServerAdmin, Admin, SrDeveloper, SrModerator,      | #
+# | Srcontent, SrBuilder, Moderator, Content, Developer  | #
+# |  Suppporter Builder                                  | #
+# +------------------------------------------------------+ #
+############################################################
+
+Rang:
+  owner: '&eGründer &7| '
+  admin: '&4Server Admin &7| '
+  srdeveloper: '&7[&6Sr&7]&aDeveloper &7| '
+  srmoderator: '&7[&6Sr&7]&3Moderator &7| '
+  srsupporter: '&7[&6Sr&7]&3Supporter &7| '
+  srcontent: '&7[&6Sr&7]&bContent &7| '
+  srbuilder: '&7[&6Sr&7]&6Builder &7| '
+  moderator: '&3Moderator &7| '
+  content: '&bContenet &7| '
+  developer: '&aDeveloper &7| '
+  supporter: '&3Supporter &7| '
+  builder: '&6Builder &7| '
+
+  player_highest: '&3Supreme &7| '
+  player_high: '&7Ultra &7| '
+  player_medium: '&7Kupfer &7| '
+  player_medium_I: '&3Diamand &7| '
+  player_low: '&bSilber &7| '
+  playerlow_I: '&aEmerald &7| '
+  player_small: '&3Bronze &7| '
+  default: '&7Spieler &7| '
+

@@ -1,0 +1,4 @@
+name: Tablist
+version: '${project.version}'
+main: com.fargu.gaming.tablist.Tablist
+api-version: 1.18
